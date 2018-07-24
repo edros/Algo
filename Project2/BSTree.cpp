@@ -19,6 +19,7 @@ namespace ds
 			root->left = nullptr;
 			return;
 		}
+
 		node* temp = root;
 
 		while (1)
